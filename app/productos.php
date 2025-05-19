@@ -25,7 +25,7 @@ try {
     </style>
 </head>
 <body>
-    <h1>Productos de Technatura</h1>
+    <h1>Productos de Technatura visca l'edicio</h1>
     <?php if (empty($productos)): ?>
         <p>No hay productos disponibles.</p>
     <?php else: ?>
