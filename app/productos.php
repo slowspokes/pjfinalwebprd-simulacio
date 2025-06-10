@@ -26,7 +26,6 @@ try {
 </head>
 <body>
     <h1>Productes de Technatura</h1>
-    <p>proba html, jenkins</p></b>
     <?php if (empty($productos)): ?>
         <p>No hay productos disponibles.</p>
     <?php else: ?>
